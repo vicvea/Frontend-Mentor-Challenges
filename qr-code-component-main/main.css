@@ -1,13 +1,13 @@
 * {
-    font-size: 20px;
+    outline: 1px soli;
 }
 body {
     background-color: #D6E1EF;
 }
 .main-card {
     background-color: white;
-    heiht: 425px;
-    width: 250px;
+    height: 425px;
+    width: 265px;
     margin: 50px auto;
     padding: 15px;
     border-radius: 20px;
@@ -19,9 +19,11 @@ img {
     border-radius: 10px;
 }
 .hook {
+    font-size: 20px;
     font-family: 'Outfit', sans-serif;
     font-weight: 700;
     text-align: center;
+    padding: 5px;
     color: hsl(218, 44%, 22%);
 }
 .description {
@@ -29,6 +31,7 @@ img {
     font-weight: 400;
     font-size: 15px;
     text-align: center;
+    padding: auto 5px;
     color: hsl(220, 15%, 55%)
 }
 .attribution {
