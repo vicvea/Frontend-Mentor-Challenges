@@ -6,6 +6,7 @@ body {
 }
 .main-card {
     background-color: white;
+    heiht: 425px;
     width: 250px;
     margin: 50px auto;
     padding: 15px;
@@ -29,4 +30,8 @@ img {
     font-size: 15px;
     text-align: center;
     color: hsl(220, 15%, 55%)
+}
+.attribution {
+    font-family: 'outfit', sans-serif;
+    font-weight: 700;
 }
