@@ -38,16 +38,16 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## My process
 
+1. Set up basic HTML
+2. Styled using CSS
+3. 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- Google Fonts
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
@@ -90,9 +90,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Vic Vea](https://www.vicvea.com)
+- Frontend Mentor - [@vicvea](https://www.frontendmentor.io/profile/vicvea)
+- Twitter - [@vicvea](https://www.twitter.com/yourusername)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
